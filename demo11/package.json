@@ -1,6 +1,6 @@
 {
   "name": "cielsys-npmdemo11",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "如何创建 Node.js 模块",
   "main": "index.js",
   "scripts": {
